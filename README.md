@@ -54,4 +54,4 @@ For using this setup without making any changes, you will need to follow these r
 For visualizing your dataLayer, you can query your BigQuery table and export the results as a `JSONL` file. 
 
 # Note
-[Présentation](https://docs.google.com/presentation/d/1ArO6dbLk5Qwho18p110yNci3gI4_MZwU-yzGgIVXraE/edit?usp=sharing)
+[Présentation MeasureCamp Paris 2024](https://docs.google.com/presentation/d/1ArO6dbLk5Qwho18p110yNci3gI4_MZwU-yzGgIVXraE/edit?usp=sharing)
